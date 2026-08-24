@@ -1,16 +1,14 @@
-# AIS-OS — AI Operating System starter kit for Claude Code
+# AIOS — AI Operating System starter kit for Claude Code
 
-A free, MIT-licensed starter kit that turns Claude Code into your personal **AI Operating System (AIOS)**. Audience: anyone building automations — solopreneurs, small business operators, managers, creators, AI consultants. Pairs with a companion masterclass video.
+A free, MIT-licensed starter kit that turns Claude Code into your personal **AI Operating System (AIOS)**. Audience: anyone building automations — solopreneurs, small business operators, managers, creators, AI consultants.
 
 The kit personalizes itself to you via an `/onboard` interview, then gives you two recurring thinking skills (`/audit`, `/level-up`) to keep building leverage week over week.
-
-> **AIS-OS** stands for **AI Automation Society OS** — the way Nate designed this AIOS to be set up for members of his community, [AI Automation Society](https://www.skool.com/ai-automation-society). The kit is universal (it works for anyone), but the structure mirrors how AIS members run their own businesses on top of it.
 
 ---
 
 ## The litmus test
 
-> **"While you're not at your desk, your AIS-OS observes one real-world event and produces an output that's faster and more accurate than what you'd produce yourself."**
+> **"While you're not at your desk, your AIOS observes one real-world event and produces an output that's faster and more accurate than what you'd produce yourself."**
 
 Every design decision in this kit rolls up to that test. If a layer, skill, or template doesn't contribute to it, it doesn't ship.
 
@@ -99,7 +97,7 @@ The kit is intentionally lean. Skills here are ideation prompts and thinking too
 ## Repo layout
 
 ```
-AIS-OS/
+AIOS/
 ├── README.md
 ├── CLAUDE.md                        ← Your operating manual (filled by /onboard)
 ├── EXPANSIONS.md                    ← What to add as you grow

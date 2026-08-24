@@ -93,7 +93,7 @@ A "reachable" connection counts via ANY mechanism: MCP, script, export pipeline,
 | Criterion | Points | How to detect |
 |---|---|---|
 | 3+ skills installed | 10 | Count `.claude/skills/*/SKILL.md` |
-| 1+ user-built skill | 10 | Skill names not in: `onboard`, `audit`, `level-up`, `skill-creator`, `skill-builder`, `decision`, `connect`, `connect-check`, `memory-prune`, `scaffold-skill`, `scaffold-agent`, `draft`, `standup` (canonical AIS-OS + Anthropic shipped skills) |
+| 1+ user-built skill | 10 | Skill names not in: `onboard`, `audit`, `level-up`, `skill-creator`, `skill-builder`, `decision`, `connect`, `connect-check`, `memory-prune`, `scaffold-skill`, `scaffold-agent`, `draft`, `standup` (canonical AIOS + Anthropic shipped skills) |
 | 1+ agent defined | 5 | Count `.claude/agents/*.md` ≥ 1 |
 
 #### Cadence (25 pts)
