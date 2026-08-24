@@ -124,8 +124,6 @@ See `EXPANSIONS.md` for what to add as you grow (`projects/`, `templates/`, `scr
 
 ## License + attribution
 
-MIT License. © 2026 Nate Herk.
+MIT License. © 2026 COMMAND LABS.
 
 The Three Ms of AI™ and The Four Cs of an AIOS™ are trademarks of Nate Herk. Both frameworks ship in this repo with attribution. Use freely; don't repackage as your own.
-
-The companion masterclass video walks you through the kit step by step. Link will land here once it ships.
